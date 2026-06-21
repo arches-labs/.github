@@ -6,4 +6,4 @@ Arches AI is a workshop for local intelligence: compact systems that watch, list
 
 ## Projects
 
-- [Arches Watch](https://github.com/arches-labs/arches-watch) - Low-latency RTSP camera alerts with YOLO ONNX, TensorRT FP16, and Telegram video clips.
+- [Arches Watch](https://github.com/arches-labs/arches-watch) - A fast multi-camera watchtower for RTSP streams, built to stay sharp as camera count grows.
